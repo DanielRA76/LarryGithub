@@ -1,1 +1,5 @@
 # Larry Plotter y El Malware de Fuego
+
+En la escuela de hacking se celebra un hackton, pero 
+un compañero de **Larry** se queda sin portatil tras
+ un ataque del malvado **Ballmermort**
