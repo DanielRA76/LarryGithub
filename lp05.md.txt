@@ -1,5 +1,8 @@
 # Larry Plotter y La orden de Unix
 
-**Lord Ballmermort** y sus *followers* cada vez tienen m�s poder.
-El c�digo de **Larry* cada vez tiene m�s bugs.
+
+El cÃ³digo de **Larry* cada vez tiene mÃ¡s bugs.
+
+**Lord Ballmermort** y sus *followers* cada vez tienen más poder.
+El código de **Larry* cada vez tiene más bugs.
 
